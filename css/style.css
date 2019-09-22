@@ -19,10 +19,13 @@ body {
   background: transparent;
   position: absolute;
   width: 100%;
+
+  margin-bottom: 0;
 }
 
 .associations {
   background: rgba(255, 255, 255, 0.7);; /* #D64E4E; */ 
+  padding: 2rem;
 }
 
 .logolink {
@@ -30,7 +33,7 @@ body {
 }
 
 .logoimg {
-  max-width:100%;
+  max-width: 100%;
   max-height: 5em;
   margin-top: 2em;
   margin-bottom: 2em;
