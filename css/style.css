@@ -21,6 +21,7 @@ body {
   width: 100%;
 
   margin-bottom: 0;
+  padding: 2rem 1.5rem;
 }
 
 .associations {
@@ -114,8 +115,9 @@ img.center {
 .navbar .logonav img {
   position: relative;
   top: -3px;
-  height: 45px;
-  vertical-align: middle; }
+  height: 60px;
+  vertical-align: middle; 
+  margin: 10px;}
 
 .navbar button.toggle {
   display: inline-block;
